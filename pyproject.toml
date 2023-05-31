@@ -29,9 +29,9 @@ dependencies = [
 ]
 
 [project.urls]
-Documentation = "https://github.com/unknown/pipeline-name#readme"
-Issues = "https://github.com/unknown/pipeline-name/issues"
-Source = "https://github.com/unknown/pipeline-name"
+Documentation = "https://github.com/Wytamma/snk-pipeline-package-example#readme"
+Issues = "https://github.com/Wytamma/snk-pipeline-package-example/issues"
+Source = "https://github.com/Wytamma/snk-pipeline-package-example"
 
 [project.scripts]
 pipeline-name = "pipeline_name.cli:pipeline_name"
