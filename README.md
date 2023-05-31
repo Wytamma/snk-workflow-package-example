@@ -5,11 +5,6 @@
 
 -----
 
-**Table of Contents**
-
-- [Installation](#installation)
-- [License](#license)
-
 ## Installation
 
 ```console
@@ -18,7 +13,7 @@ pip install pipeline-name
 
 ## About 
 
-This is an example package showing how to use [snk](https://snk.wytamma.com/) to build self contained tools Snakemake pipeline tools.
+This is an example package showing how to use [snk](https://snk.wytamma.com/) to build self contained tools Snakemake pipeline tools. See [Pipeline Packages](https://snk.wytamma.com/pipeline_packages/) docs for more details.
 
 ## License
 
