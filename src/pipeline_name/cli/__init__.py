@@ -1,5 +1,7 @@
 from pathlib import Path
 
-from snk.cli import CLI
+from snk_cli import CLI
 
-pipeline_name = CLI(pipeline_dir_path = Path(__file__).parent.parent)
+workflow_path = Path(__file__).parent.parent
+
+pipeline_name = CLI(workflow_path)
